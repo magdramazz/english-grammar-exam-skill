@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Check a generated Emar 12 grammar exam sheet.
+"""Check a generated English grammar exam sheet (any grade, 1-12).
 
-Usage: python check_exam.py ./english-exams/present-perfect-medium.md
+Usage: python check_exam.py ./english-exams/present-perfect-grade9-medium.md
 
 The paper runs 1-50 with affirmative, negative and question sentences shuffled
 together and nothing announcing which is which. This script works out each

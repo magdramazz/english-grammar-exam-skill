@@ -2,8 +2,23 @@
 
 Find your topic, read its three lines, then write. Each section gives **what to test**, the **distractor recipe** (where the wrong options come from), and the **real student errors** worth exploiting.
 
+## Grade guide
+
+Which topics are fair game at each grade. A topic from a later band is not forbidden, but flag it to the teacher first (see Step 1).
+
+| Grades | Typical topics |
+|---|---|
+| 1–3 | verb to be · have/has got · there is/are · can/can't · present simple (simple habits) · present continuous (happening now) |
+| 4–6 | present simple vs present continuous · past simple (regular and common irregular) · was/were · going to · can/could · must |
+| 7–9 | past simple vs past continuous · present perfect · future forms · modals (should, have to, mustn't) · passive (present and past simple) · conditionals type 1 · gerund vs infinitive (common verbs) |
+| 10–12 | everything, including past perfect · passive across tenses · conditionals types 2 and 3 · reported speech · relative clauses · past modals |
+
 ## Contents
 
+- [Verb to be](#verb-to-be)
+- [Have got](#have-got)
+- [There is / there are](#there-is--there-are)
+- [Can / can't](#can--cant)
 - [Present simple vs present continuous](#present-simple-vs-present-continuous)
 - [Past simple vs past continuous](#past-simple-vs-past-continuous)
 - [Present perfect (and vs past simple)](#present-perfect)
@@ -16,6 +31,46 @@ Find your topic, read its three lines, then write. Each section gives **what to 
 - [Relative clauses](#relative-clauses)
 - [Gerund vs infinitive](#gerund-vs-infinitive)
 - [Mixed revision papers](#mixed-revision-papers)
+
+---
+
+## Verb to be
+
+**Test:** `am / is / are` with every subject, including plural nouns and names; `was / were` from Grade 4; the negative (`isn't / aren't`, `I'm not`) and the question (`Is he…? / Are they…?`).
+
+**Distractors:** the wrong person of *be* (`She are`, `They is`), `am` after a subject other than *I*, `do/does` where *be* is needed (`Do you happy?`), and a doubled verb (`He is play`).
+
+**Student errors:** `I is`; `amn't`; `Do you are…?`; dropping *be* altogether (`She happy`).
+
+---
+
+## Have got
+
+**Test:** `have got / has got` for possession, family and appearance; `haven't got / hasn't got`; `Have you got…? / Has she got…?`.
+
+**Distractors:** `have` with a third-person subject, `has` with *I / you / we / they*, `don't have got`, and `Do you have got…?`.
+
+**Student errors:** `He have got`; `She hasn't a bike` mixed with *got*; `Does she has got…?`.
+
+---
+
+## There is / there are
+
+**Test:** `there is` with singular and uncountable nouns, `there are` with plurals; `there isn't / there aren't`; `Is there…? / Are there…?`; `there was / there were` from Grade 4.
+
+**Distractors:** the wrong number (`There is two cats`), `It is` / `They are` in place of `there`, `Are there a…`, and `have` (`There have a park`), which mirrors an Arabic pattern students translate directly.
+
+**Student errors:** `There is many books`; `Have a pen on the table`; `Is there any apples?`.
+
+---
+
+## Can / can't
+
+**Test:** `can + bare verb` for ability and permission; `can't`; `Can you…?`; `could` for past ability from Grade 4.
+
+**Distractors:** `can + -s` (`can swims`), `can to`, `cans`, and `do` in the question (`Do you can…?`).
+
+**Student errors:** `She cans swim`; `I can to read`; `Do you can help me?`.
 
 ---
 
@@ -135,8 +190,11 @@ Find your topic, read its three lines, then write. Each section gives **what to 
 
 ## Mixed revision papers
 
-When the teacher asks for `mixed`, choose 5–8 topics and rotate so no two consecutive questions test the same one. A workable default spread at Bacaloria level:
+When the teacher asks for `mixed`, choose 5–8 topics (4–5 for Grades 1–3) from the grade guide and rotate so no two consecutive questions test the same one. Workable default spreads:
 
-present perfect vs past simple · passive voice · conditionals (types 1–3) · reported speech · modals · past perfect · gerund vs infinitive
+- **Grades 1–3:** verb to be · have/has got · there is/are · can/can't · present simple
+- **Grades 4–6:** present simple vs continuous · past simple · was/were · going to · can/could · must
+- **Grades 7–9:** past simple vs continuous · present perfect · future forms · passive (present/past) · conditionals type 1 · modals
+- **Grades 10–12 (Bacaloria):** present perfect vs past simple · passive voice · conditionals (types 1–3) · reported speech · modals · past perfect · gerund vs infinitive
 
-Keep the roughly 20/15/15 balance of affirmative, negative and question sentences, shuffled through the paper with no part headings. Negative and question forms are harder in some topics than others — put the passive and reported-speech items in the back half of the paper, since those are where students lose most marks.
+Keep the roughly 20/15/15 balance of affirmative, negative and question sentences, shuffled through the paper with no part headings. Negative and question forms are harder in some topics than others — at older grades put the passive and reported-speech items in the back half of the paper, since those are where students lose most marks.

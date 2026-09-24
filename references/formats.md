@@ -5,9 +5,9 @@ Copy these shapes literally. The checker script expects them, and so does the ph
 ## 1. The exam sheet
 
 ````markdown
-# <Grammar Topic> — <Level> Level
+# <Grammar Topic> — Grade <N> — <Level> Level
 
-**Emar 12 — Grammar Exam | 50 Questions | Time: 45 minutes**
+**Grade <N> — English Grammar Exam | 50 Questions | Time: <T> minutes**
 
 **Name:** ____________________  **Class:** ________  **Mark:** ______ / 50
 
@@ -42,6 +42,8 @@ Copy these shapes literally. The checker script expects them, and so does the ph
 
 There are no part headings and no labels telling the student which form an item is. One unbroken run of fifty, with affirmative, negative and question sentences shuffled through each other — that is what makes the paper test anything. The checker rejects a `## Part` heading outright and warns when more than three items of one form sit together.
 
+- Grade 12 papers may write the header as `**Grade 12 (Bacaloria) — English Grammar Exam | …**`. Time: about 45 minutes for Grades 10–12, 50 for Grades 7–9, and 60 or a split over two lessons for Grades 1–6, since young students read slowly.
+- The examples above are pitched at the older grades. For Grades 1–3, keep sentences to 4–7 words, e.g. `**1.** She ______ my sister.` with `a) am   b) is   c) are   d) be`.
 - Question number as `**N.**` at the start of a line, numbered 1–50 with no gaps.
 - Options on **one** line, `a) … b) … c) … d) …`, three spaces between them, indented three spaces.
 - Exactly one blank `______` (six underscores) per sentence.
@@ -67,10 +69,10 @@ Insert directly after the **Instructions** line, before the first `---`. Keep it
 
 ## 3. Teacher key file (only when asked)
 
-A second file at `./english-exams/<topic-slug>-<level>-teacher-key.md`.
+A second file at `./english-exams/<topic-slug>-grade<N>-<level>-teacher-key.md`.
 
 ```markdown
-# <Grammar Topic> — <Level> Level — Teacher Key
+# <Grammar Topic> — Grade <N> — <Level> Level — Teacher Key
 
 **1.** b) goes — third person singular in the present simple; "every morning" marks a habit.
 **2.** a) arrived — "last night" fixes a finished past time, so the present perfect is impossible.
@@ -82,13 +84,13 @@ One line per question: number, correct letter and text, then a short reason nami
 
 ## 4. Mixed revision paper
 
-Filename `mixed-revision-<level>.md`. Title: `# Mixed Grammar Revision — <Level> Level`.
+Filename `mixed-revision-grade<N>-<level>.md`. Title: `# Mixed Grammar Revision — Grade <N> — <Level> Level`.
 
-Keep the same unlabelled run of fifty and the same rough 20/15/15 balance of forms, but draw from 5–8 grammar points and rotate through them so no two consecutive questions test the same one. A mixed paper therefore shuffles on two axes at once — grammar point and sentence form — and neither may settle into a run.
+Keep the same unlabelled run of fifty and the same rough 20/15/15 balance of forms, but draw from 5–8 grammar points (4–5 for Grades 1–3) suited to the grade and rotate through them so no two consecutive questions test the same one. A mixed paper therefore shuffles on two axes at once — grammar point and sentence form — and neither may settle into a run.
 
-Three ordering rules apply here and they cannot all hold strictly. Rank them: **rotation first** (never two consecutive items on one topic), **then push passive and reported speech into the back half of the paper**, and treat the simple-to-hard ramp as a preference rather than a rule. Rotation wins because a student who meets three passives in a row starts answering by pattern instead of by grammar.
+Three ordering rules apply here and they cannot all hold strictly. Rank them: **rotation first** (never two consecutive items on one topic), **then, at older grades, push passive and reported speech into the back half of the paper**, and treat the simple-to-hard ramp as a preference rather than a rule. Rotation wins because a student who meets three passives in a row starts answering by pattern instead of by grammar.
 
-A rule box on a mixed paper cannot use the single-topic layout — use one line per grammar point instead, and keep the whole box to 8 lines:
+The example box below is a Bacaloria one; for younger grades list that grade's topics instead. A rule box on a mixed paper cannot use the single-topic layout — use one line per grammar point instead, and keep the whole box to 8 lines:
 
 ```markdown
 > **Quick reminder — this paper covers:**
@@ -113,10 +115,17 @@ The answer key is the last thing in the file. Anything numbered placed after it 
 
 ## File naming
 
-Lowercase, hyphenated, no spaces:
+Lowercase, hyphenated, no spaces: `<topic-slug>-grade<N>-<level>.md`, e.g. `verb-to-be-grade2-easy.md`, `passive-voice-grade12-hard.md`.
+
+Topic slugs:
 
 | Topic | Slug |
 |---|---|
+| Verb to be | `verb-to-be` |
+| Have got | `have-got` |
+| There is / there are | `there-is-are` |
+| Can / can't | `can-cant` |
+| Present simple vs continuous | `present-simple-vs-continuous` |
 | Present perfect | `present-perfect` |
 | Past simple vs past continuous | `past-simple-vs-continuous` |
 | Passive voice | `passive-voice` |
